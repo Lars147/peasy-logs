@@ -2,7 +2,7 @@
 name = "peasy-logs"
 version = "0.1.0"
 description = "Easily ship you logs from functions to various connectors!"
-authors = ["larsheinen <https://meet.google.com/yqv-jgpo-cjr?hs=151>"]
+authors = ["larsheinen <larsheinen@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
