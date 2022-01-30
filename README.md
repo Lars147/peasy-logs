@@ -16,6 +16,11 @@ While this is not very performant, it is a great way for periodic tasks that nee
 - Check that your script is running
 - Let your users know about the status of your script
 
+## Installation
+```
+pip install peasy-logs
+```
+
 ## Usage
 Send your print statements the easy way:
 ```python
