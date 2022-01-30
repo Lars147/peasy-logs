@@ -1,5 +1,5 @@
 # Peasy Logs
-Easily ship your print statements to your favorite chat bot.
+Easily ship your **Python** print statements to your favorite chat bot.
 
 ## About
 **Peasy Logs** listens to your function's `print` statements and sends a request for each of them.
